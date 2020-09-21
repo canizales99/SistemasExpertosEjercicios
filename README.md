@@ -1,3 +1,2 @@
-# First-Attempt-At-Python
-primer proyecto con pyhton
-calculadora solo pratica
+#Ejercicios Sistemas Expertos
+Christian Daniel Canizales Santos
