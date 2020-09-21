@@ -2,8 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
-with open('costos.txt') as costos:
-    costos = list(map(int, costoss.read().split('\n')))
+with open('costos.txt') as cost:
+    costos = list(map(int, cost.read().split('\n')))
 
 #opcion 1: utilizando un for iremos haciendo un append cada vez que el valor dentro sea menor o igual a 25
 
