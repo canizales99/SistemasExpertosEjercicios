@@ -21,8 +21,7 @@ Tambien importamos la caracteristica "time" de python.
 caso fue "for" con el cual asignariamos una accion a cada valor al azar dependiendo de 
 si cumplian con una caracteristica cada uno. Asignamos una variable "inicio" para tomar
 el tiempo de cuanto tardara nuestro aplicativo en realizar sus labores.
-3.Dentro de nuestra estructura de control asignamos un "if" el cual lograra determinar 
+3. Dentro de nuestra estructura de control asignamos un "if" el cual lograra determinar 
 si uno de los numeros al azar en el array posee la caracteristica de ser menor a 500,000
-4.Utilizando "prints" imprimimos los resultados de la sumatoria en nuestro "for". Declaramos
+4. Utilizando "prints" imprimimos los resultados de la sumatoria en nuestro "for". Declaramos
 un print para la variable "inicio" para que nos muestre el timepo en el que este se realizo
-
