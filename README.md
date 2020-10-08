@@ -4,9 +4,7 @@ MATERIA: SISTEMAS EXPERTOS
 Estudiante: Christian Daniel Canizales Santos
 
 Laborario registro numero 2.
-
 Se debia generar un codigo a traves de las siguientes indicaciones.
-
 1. Generar una estructura de datos que almacene 10 millones de puntos en una distribución
 normal con una media de 500 y una escala de 30
 2. Iterarla exclusivamente con estructuras de control
@@ -15,7 +13,6 @@ normal con una media de 500 y una escala de 30
 tardo en ejecutarse
 
 Se logro haciendo lo siguiente:
-
 1. Se importo la libreria Numpy, a traves de esta creamos una vairable en la cual 
 encapsulamos la creacion de numeros de naturaleza al azar. El nombre de esta variable se 
 denomino como "al_azar", y la caracteristica utilizada fue "numpy.random.normal".
