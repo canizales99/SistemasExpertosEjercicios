@@ -19,3 +19,5 @@ debemos de encapsularlos en un array "array_al_azar".
 3. Despues solo resta sumar los valores dentro.
 4. Imprimimos ambos, el resultado de la suma y la duracion del proceso que 
 ha disminuido bastante notoriamente.
+
+Video Explicativo: https://youtu.be/awvj9nWoSqI
